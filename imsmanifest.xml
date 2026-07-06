@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="IyzlLLQKfX6vX" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<metadata>
+<schema>ADL SCORM</schema>
+<schemaversion>1.2</schemaversion>
+<lom:lom>
+<lom:general>
+<lom:title>
+<lom:langstring>Связь образовательного опыта (LXD) и юнит-экономики EdTech</lom:langstring>
+</lom:title>
+</lom:general>
+<lom:educational>
+<lom:typicallearningtime>
+<lom:datetime>01:00:00</lom:datetime>
+</lom:typicallearningtime>
+</lom:educational>
+</lom:lom>
+</metadata>
+<organizations default="sviaz_obrazovatelnogo_opyta_(lxd)_i_iunit-ekonomiki_edtech_organization">
+<organization identifier="sviaz_obrazovatelnogo_opyta_(lxd)_i_iunit-ekonomiki_edtech_organization">
+<title>Связь образовательного опыта (LXD) и юнит-экономики EdTech</title>
+<item identifier="B5046130-23E9-4BAF-B287-F48F0C775FA7" identifierref="resource">
+<title>Связь образовательного опыта (LXD) и юнит-экономики EdTech</title>
+</item>
+</organization>
+</organizations>
+<resources>
+<resource identifier="resource" type="webcontent" adlcp:scormtype="sco" href="res/index.html">
+<file href="res/index.html"/>
+<file href="res/lms.js"/>
+<file href="res/data/sound1.mp3"/>
+<file href="res/data/thmb1.jpg"/>
+<file href="res/data/slide1.js"/>
+<file href="res/data/slide1.css"/>
+<file href="res/data/thmb2.jpg"/>
+<file href="res/data/slide2.js"/>
+<file href="res/data/slide2.css"/>
+<file href="res/data/intr1.js"/>
+<file href="res/data/intr1/fonts/fnt0.woff"/>
+<file href="res/data/intr1/fonts/fnt1.woff"/>
+<file href="res/data/intr1/fonts/fnt10.woff"/>
+<file href="res/data/intr1/fonts/fnt2.woff"/>
+<file href="res/data/intr1/fonts/fnt3.woff"/>
+<file href="res/data/intr1/fonts/fnt4.woff"/>
+<file href="res/data/intr1/fonts/fnt5.woff"/>
+<file href="res/data/intr1/fonts/fnt6.woff"/>
+<file href="res/data/intr1/fonts/fnt7.woff"/>
+<file href="res/data/intr1/fonts/fnt8.woff"/>
+<file href="res/data/intr1/fonts/fnt9.woff"/>
+<file href="res/data/intr1/images/interaction_bg_0.png"/>
+<file href="res/data/thmb3.jpg"/>
+<file href="res/data/intr2.js"/>
+<file href="res/data/intr2/fonts/fnt0.woff"/>
+<file href="res/data/intr2/fonts/fnt1.woff"/>
+<file href="res/data/intr2/fonts/fnt10.woff"/>
+<file href="res/data/intr2/fonts/fnt11.woff"/>
+<file href="res/data/intr2/fonts/fnt12.woff"/>
+<file href="res/data/intr2/fonts/fnt2.woff"/>
+<file href="res/data/intr2/fonts/fnt3.woff"/>
+<file href="res/data/intr2/fonts/fnt4.woff"/>
+<file href="res/data/intr2/fonts/fnt5.woff"/>
+<file href="res/data/intr2/fonts/fnt6.woff"/>
+<file href="res/data/intr2/fonts/fnt7.woff"/>
+<file href="res/data/intr2/fonts/fnt8.woff"/>
+<file href="res/data/intr2/fonts/fnt9.woff"/>
+<file href="res/data/intr2/images/img-06add0711aa1f512217b5f7aa05494e9589de53c.png"/>
+<file href="res/data/intr2/images/img-146261b66397ee7c96061e8051361a196df16261.png"/>
+<file href="res/data/intr2/images/img-c98a8d727bb50fafececc7f2b7142f8632a16fbd.png"/>
+<file href="res/data/intr2/images/img-f76f514fffc387495d5ebe4affc339df31060a97.png"/>
+<file href="res/data/intr2/images/img-fa33b7d6ab56efcbaffde0f9eb8e6788c4b286eb.png"/>
+<file href="res/data/intr2/images/interaction_bg_0.png"/>
+<file href="res/data/thmb4.jpg"/>
+<file href="res/data/quiz1.js"/>
+<file href="res/data/quiz1/fonts/fnt0.woff"/>
+<file href="res/data/quiz1/fonts/fnt1.woff"/>
+<file href="res/data/quiz1/fonts/fnt10.woff"/>
+<file href="res/data/quiz1/fonts/fnt11.woff"/>
+<file href="res/data/quiz1/fonts/fnt12.woff"/>
+<file href="res/data/quiz1/fonts/fnt2.woff"/>
+<file href="res/data/quiz1/fonts/fnt3.woff"/>
+<file href="res/data/quiz1/fonts/fnt4.woff"/>
+<file href="res/data/quiz1/fonts/fnt5.woff"/>
+<file href="res/data/quiz1/fonts/fnt6.woff"/>
+<file href="res/data/quiz1/fonts/fnt7.woff"/>
+<file href="res/data/quiz1/fonts/fnt8.woff"/>
+<file href="res/data/quiz1/fonts/fnt9.woff"/>
+<file href="res/data/quiz1/images/img-5888615111673198e9b84964baf72d7daeaa75b5.png"/>
+<file href="res/data/quiz1/images/img-71eb88f3dac51528cfebd89077e571e835d50319.png"/>
+<file href="res/data/quiz1/images/quiz_bg_0.png"/>
+<file href="res/data/thmb5.jpg"/>
+<file href="res/data/thmb6.jpg"/>
+<file href="res/data/slide6.js"/>
+<file href="res/data/slide6.css"/>
+<file href="res/data/scenario1.js"/>
+<file href="res/data/scenario1/fnt1.woff"/>
+<file href="res/data/scenario1/fnt1b.woff"/>
+<file href="res/data/scenario1/fnt1bi.woff"/>
+<file href="res/data/scenario1/fnt1i.woff"/>
+<file href="res/data/scenario1/fnt1sb.woff"/>
+<file href="res/data/scenario1/html5-unsupported.html"/>
+<file href="res/data/scenario1/img0.jpg"/>
+<file href="res/data/scenario1/img1.png"/>
+<file href="res/data/scenario1/img2.png"/>
+<file href="res/data/scenario1/img3.png"/>
+<file href="res/data/scenario1/img4.png"/>
+<file href="res/data/scenario1/img5.png"/>
+<file href="res/data/thmb7.jpg"/>
+<file href="res/data/thmb8.jpg"/>
+<file href="res/data/slide8.js"/>
+<file href="res/data/slide8.css"/>
+<file href="res/data/quizplayer.js"/>
+<file href="res/data/scenarioplayer.js"/>
+<file href="res/data/intplayer1.js"/>
+<file href="res/data/intplayer2.js"/>
+<file href="res/index.html"/>
+<file href="res/data/player.js"/>
+<file href="res/data/eraser.cur"/>
+<file href="res/data/highlighter.cur"/>
+<file href="res/data/marker.cur"/>
+<file href="res/data/lock.cur"/>
+<file href="res/data/browsersupport.js"/>
+<file href="res/data/apple-touch-icon.png"/>
+<file href="res/data/favicon.ico"/>
+<file href="res/data/fnt0.woff"/>
+<file href="res/data/fnt10.woff"/>
+<file href="res/data/fnt11.woff"/>
+<file href="res/data/fnt12.woff"/>
+<file href="res/data/fnt14.woff"/>
+<file href="res/data/fnt15.woff"/>
+<file href="res/data/fnt4.woff"/>
+<file href="res/data/fnt6.woff"/>
+<file href="res/data/fnt7.woff"/>
+<file href="res/data/fnt8.woff"/>
+<file href="res/data/fnt9.woff"/>
+<file href="res/data/html5-unsupported.html"/>
+<file href="res/data/img0.png"/>
+<file href="res/data/img1.png"/>
+<file href="res/data/img10.png"/>
+<file href="res/data/img11.png"/>
+<file href="res/data/img12.png"/>
+<file href="res/data/img2.png"/>
+<file href="res/data/img3.png"/>
+<file href="res/data/img4.png"/>
+<file href="res/data/img5.png"/>
+<file href="res/data/img6.png"/>
+<file href="res/data/img7.png"/>
+<file href="res/data/img8.png"/>
+<file href="res/data/img9.png"/>
+<file href="res/data/goodbye.html"/>
+</resource>
+</resources>
+</manifest>
